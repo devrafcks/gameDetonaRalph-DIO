@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detona Ralph - Game</title>
+    <link rel="shortcut icon" href="./src/images/favicon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="./src/styles/global.css">
+</head>
+<body>
+
+    <main>
+        <div class="menu">
+            <div class="menu-time">
+                <h2>Tempo Restante:</h2>
+                <span class="time" id="time-left">00:00</span>
+            </div>
+            <div class="menu-score">
+                <h2>Sua Pontuação:</h2>
+                <span class="score" id="score">0</span>
+            </div>
+            <div class="menu-lives">
+                <img src="./src/images/player.png" height="80px" />
+                <h3 class="lives">x3</h3>
+            </div>
+        </div>
+
+        <div class="panel">
+
+            <div class="panel-row">
+                <div class="square" id="1"></div>
+                <div class="square" id="2"></div>
+                <div class="square" id="3"></div>
+            </div>
+            
+
+            <div class="panel-row">
+                <div class="square" id="4"></div>
+                <div class="square" id="5"></div>
+                <div class="square" id="6"></div>
+            </div>
+
+            <div class="panel-row">
+                <div class="square" id="7"></div>
+                <div class="square" id="8"></div>
+                <div class="square" id="9"></div>
+            </div>
+
+        </div>
+    </main>
+
+
+    <script defer src="./src/scripts/script.js"></script>
+</body>
+</html>
