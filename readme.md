@@ -27,7 +27,7 @@ Bem-vindo ao **Detona Ralph**! Este é um jogo interativo e dinâmico, inspirado
 - Clicar fora faz perder uma vida. Ao zerar vidas ou tempo, o jogo reinicia com as variáveis resetadas.
 
 ## 📸 Jogue Agora
-
+🔗 **[Clique aqui para jogar Detona Ralph](https://devrafcks.github.io/gameDetonaRalph-DIO/)**
 
 ## 👨‍🏫 Créditos
 
