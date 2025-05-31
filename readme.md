@@ -20,15 +20,16 @@ Bem-vindo ao **Detona Ralph**! Este é um jogo interativo e dinâmico, inspirado
 - Interface responsiva para diversos tamanhos de tela.
 - Sons exclusivos para acertos e erros.
 
-## 🧠 Como funciona
+##  Como funciona
 
 - Ralph aparece aleatoriamente em uma das 9 posições a cada segundo.
 - O jogador deve clicar na posição correta para marcar ponto.
 - Clicar fora faz perder uma vida. Ao zerar vidas ou tempo, o jogo reinicia com as variáveis resetadas.
 
-## 📸 Jogue Agora
+##  Jogue Agora
+
 🔗 **[Clique aqui para jogar Detona Ralph](https://devrafcks.github.io/gameDetonaRalph-DIO/)**
 
-## 👨‍🏫 Créditos
+## Créditos
 
 Este jogo foi desenvolvido como parte de um projeto educacional da **Digital Innovation One (DIO)**.
